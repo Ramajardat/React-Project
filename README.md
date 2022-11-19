@@ -1,6 +1,6 @@
 # React-Project
 
-#Tv Series Website  We are great places to find out what a series is all about. The more information you can gather on a series , the better informed you’ll be when you decide whether to watch it or not.
+# Tv Series Website  We are great places to find out what a series is all about. The more information you can gather on a series , the better informed you’ll be when you decide whether to watch it or not.
 
 
 
